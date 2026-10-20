@@ -1,1 +1,32 @@
+Exercice 2.4 : Écrire un algorithme qui demande un nombre à l'utilisateur, et l'informe ensuite si ce nombre est positif ou négatif, en incluant cette fois le traitement du cas où le nombre vaut zéro :
+Variables
+​	  nombre en entier
+Début
+    nombre <-- Lire("Entrez un nombre")
+    Si nombre > 0 Alors
+        Ecrire "C'est positif"
+    Si nombre < 0 Alors
+        Ecrire "C'est négatif"
+    Sinon 
+        Ecrire "C'est zéro"
+    FinSi
+Fin
 
+
+Exercice 2.5 : Écrire un algorithme qui demande deux nombres à l'utilisateur et l'informe ensuite si le produit est négatif ou positif, en incluant cette fois le traitement du cas où le produit peut être nul. Attention toutefois, le produit ne devra jamais être calculé !
+Variables
+    nombre1 en entier, nombre 2 en entier
+Début
+    nombre1 <-- Lire("Entrez un nombre")
+    nombre2 <-- Lire("Entrez un nombre")
+    Si nombre 1 + nombre 2 > O Alors
+        Ecrire "C'est positif"
+    Si nombre 1 + nombre 2 < O Alors 
+        Ecrire "C'est négatif"
+    Sinon   
+        Ecrire "C'est zéro"
+    FinSi
+Fin
+
+
+Exercice 
